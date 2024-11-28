@@ -143,9 +143,9 @@ Here's a walk-through example of one way to get started
     we should see events such as
 
     ```
-{"quantity":"2","product_id":"114","customer_id":"e45bb3bb-35e7-4314-90e7-e0adf8df8c57"}
-{"quantity":"2","product_id":"140","customer_id":"b78a7812-32fb-40c0-b028-f2111589fc61"}
-```
+    {"quantity":"2","product_id":"114","customer_id":"e45bb3bb-35e7-4314-90e7-e0adf8df8c57"}
+    {"quantity":"2","product_id":"140","customer_id":"b78a7812-32fb-40c0-b028-f2111589fc61"}
+    ```
 
     Nice.  We see two events in the example above.  
 
